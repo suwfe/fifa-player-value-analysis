@@ -20,7 +20,6 @@ Compared top-valued players to identify common characteristics
 # Key Findings
 1. Age and Value
 Player market value peaks around age 28 and declines significantly in the early 30s.
-![Average Player Value by Age](age_vs_value.png)
 3. Overall Rating
 Overall rating is strongly correlated with value but does not fully determine it.
 4. Youth Premium
