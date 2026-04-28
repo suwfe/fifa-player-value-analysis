@@ -19,7 +19,7 @@ Used sorting and grouping (e.g., average value by age) to identify patterns
 Compared top-valued players to identify common characteristics
 # Key Findings
 1. Age and Value
-![Average Player Value by Age](IMG_4416.jpeg)
+![Average Player Value by Age](IMG_4419.jpeg)
 Player market value peaks around age 28 and declines significantly in the early 30s.
 2. Overall Rating
 Overall rating is strongly correlated with value but does not fully determine it.
