@@ -19,14 +19,15 @@ Used sorting and grouping (e.g., average value by age) to identify patterns
 Compared top-valued players to identify common characteristics
 # Key Findings
 1. Age and Value
+![Average Player Value by Age](IMG_4416.jpeg)
 Player market value peaks around age 28 and declines significantly in the early 30s.
-3. Overall Rating
+2. Overall Rating
 Overall rating is strongly correlated with value but does not fully determine it.
-4. Youth Premium
+3. Youth Premium
 Younger players often have higher valuations than older players with similar or even higher ratings, suggesting that future potential plays a major role in pricing.
-5. Attribute Specialization
+4. Attribute Specialization
 High-value players typically exhibit elite performance in at least one key attribute (such as pace, shooting, or dribbling).
-6. Position Differences
+5. Position Differences
 The importance of specific attributes varies by position. For example, midfielders and defenders tend to rely less on pace compared to attacking players.
 # Conclusion
 Player market value is influenced by a combination of age, overall ability, and standout skill attributes. While performance is important, younger players and those with specialized strengths tend to command higher valuations.
