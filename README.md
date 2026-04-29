@@ -14,9 +14,13 @@ Selected relevant variables from a larger dataset
 
 Explored relationships between player value and:
 Age
+
 Overall rating
+
 Individual skill attributes
+
 Used sorting and grouping (e.g., average value by age) to identify patterns
+
 Compared top-valued players to identify common characteristics
 # Key Findings
 1. Age and Value
