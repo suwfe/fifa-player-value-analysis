@@ -12,6 +12,10 @@ Player position
 # Methodology
 Selected relevant variables from a larger dataset
 
+Used sorting and grouping (e.g., average value by age) to identify patterns
+
+Compared top-valued players to identify common characteristics
+
 Explored relationships between player value and:
 
 Age
@@ -19,10 +23,6 @@ Age
 Overall rating
 
 Individual skill attributes
-
-Used sorting and grouping (e.g., average value by age) to identify patterns
-
-Compared top-valued players to identify common characteristics
 # Key Findings
 1. Age and Value
 ![Average Player Value by Age](IMG_4419.jpeg)
