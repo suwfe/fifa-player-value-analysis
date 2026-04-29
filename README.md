@@ -4,10 +4,10 @@ This project analyzes a dataset of approximately 19,000 football players to iden
 # Dataset
 ~19,000 players
 Key variables include:
-Age
-Overall rating
+Age,
+Overall rating,
 Market value (EUR)
-Skill attributes (pace, shooting, passing, dribbling, defending, physical)
+Skill attributes (pace, shooting, passing, dribbling, defending, physical),
 Player position
 # Methodology
 Selected relevant variables from a larger dataset
