@@ -13,6 +13,7 @@ Player position
 Selected relevant variables from a larger dataset
 
 Explored relationships between player value and:
+
 Age
 
 Overall rating
